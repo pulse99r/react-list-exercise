@@ -2,6 +2,7 @@
 
 ## Directions:
 - Fork this repo
+- Clone the forked repo locally
 - `npm install`
 - to run the webpage use `npm run dev`
 
