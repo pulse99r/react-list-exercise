@@ -3,6 +3,7 @@
 ## Directions:
 - Fork this repo
 - `npm install`
+- to run the webpage use `npm run dev`
 
 
 Use the data below to build the component below with React:
@@ -37,4 +38,6 @@ const cards = [
 
 
 **Do not worry about the underlined text in the screenshot**
+
+
 
